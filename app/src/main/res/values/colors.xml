@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#bef3ff</color>
+    <color name="screenBackground">#425c87</color>
+    <color name="textColour">#eff0f2</color>
+    <color name="white">#ffffff</color>
+    <color name="imageBackground">#dee2e8</color>
+    <color name="textBackground">#aed4f2</color>
+    <color name="otherTextColour">#4d555b</color>
+    <color name="spinnerTitleColour">#414347</color>
+</resources>
